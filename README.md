@@ -3,10 +3,10 @@
 Custom status line for Claude Code (Nord colors):
 
 ```
-Opus | agent-skills • master | 5h 3% (3h 48m) • 7d 3% (3h 8m) | ctx 12% (24k/200k)
+Opus • high | agent-skills • master | 5h 3% (3h 48m) • 7d 3% (3h 8m) | ctx 12% (24k/200k)
 ```
 
-- Model name
+- Model name and effort level (when set)
 - Current directory and git branch
 - 5-hour and 7-day plan usage, with time until each resets
 - Context window usage
